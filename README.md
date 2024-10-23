@@ -1,2 +1,2 @@
 # Tinyone
-Here is the code of Tinyone project.
+https://shaylasharmin123.github.io/Tinyone/ 
